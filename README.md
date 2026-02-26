@@ -1,7 +1,5 @@
 ## Hi, I'm Jorge 
-
-### About Me
-Hello
+I am an Electrical Engineering student with a minors in Mathematics from Portland State University. I am passionate about analog design and semiconductor devices but I also enjoy the digital side of Electricla Engineering.
 
 
 
