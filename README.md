@@ -1,6 +1,6 @@
 ## Hi, I'm Jorge 
 
-# About Me
+### About Me
 Hello
 
 
