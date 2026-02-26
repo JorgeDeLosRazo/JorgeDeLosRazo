@@ -9,6 +9,33 @@ I am an Electrical Engineering student with a minors in Mathematics from Portlan
 - Semiconductor physics
 - Analog troubleshooting
 
+### Hardware & Test Equipment
+- Oscilloscope, function generator, power supplies
+- Multimeter
+- Circuit debugging and validation
+
+### PCB & Fabrication
+- Schematic capture & PCB layout (KiCad)
+- Custom board design
+- THT & SMD soldering
+- Rapid prototyping
+
+### Software & Tools
+- C / C++
+- Python
+- Git & Linux (CLI)
+- LTSpice
+- Arduino IDE
+- LaTeX
+
+### Embedded & Interfaces
+- ESP32-based systems
+- UART, SPI, I²C
+
+### Mechanical / CAD
+- Onshape (3D modeling, enclosures, STL export)
+- 3D printing for hardware projects
+
 
 
 <!--
