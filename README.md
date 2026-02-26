@@ -1,4 +1,20 @@
 ## Hi, I'm Jorge 
+
+<pre>
+                                  ___           ___           ___       ___       ___     
+                                 /\__\         /\  \         /\__\     /\__\     /\  \    
+                                /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+                               /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+                              /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+                             /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+                             \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+                                  \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+                                  /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+                                 /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+                                 \/__/         \/__/         \/__/     \/__/     \/__/    
+</pre>
+
+## 👤 About 
 I am an Electrical Engineering student with a minors in Mathematics from Portland State University, with a solid foundation in analog circuit design, semiconductor device physics, and RF fundamentals.
 
 ## 🧠 Technical Skills
