@@ -4,7 +4,10 @@ I am an Electrical Engineering student with a minors in Mathematics from Portlan
 ## 🧠 Technical Skills
 
 ### Analog & Circuit Design
-Transistor amplifier design (BJT & MOSFET) | Diode circuits | Semiconductor physics | Analog troubleshooting
+- Transistor amplifier design (BJT & MOSFET)
+- Diode circuits
+- Semiconductor physics
+- Analog troubleshooting
 
 ### Hardware & Test Equipment
 - Oscilloscope, function generator, power supplies
