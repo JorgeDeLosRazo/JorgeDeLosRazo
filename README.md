@@ -38,6 +38,20 @@ C/C++ · Python · Git · Linux (CLI) · LTSpice
 Onshape · Enclosure design · STL export · 3D printing
 
 
+## 📚 Currently Learning
+
+**RF & High-Frequency Design**  
+RF PCB layout techniques · Controlled impedance traces · Grounding & return paths
+
+**Analog Circuit Design**  
+Multi-stage amplifiers · Gain staging · Frequency response · Stability considerations  
+
+**Data Converters**  
+ADC & DAC fundamentals · Sampling theory 
+
+
+
+
 <!--
 **JorgeDeLosRazo/JorgeDeLosRazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
