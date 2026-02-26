@@ -1,4 +1,7 @@
-## Hi there, I'm Jorge
+## Hi, I'm Jorge 
+
+# About Me
+Hello
 
 
 
