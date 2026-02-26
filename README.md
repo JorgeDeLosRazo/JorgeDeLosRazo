@@ -1,41 +1,14 @@
 ## Hi, I'm Jorge 
 I am an Electrical Engineering student with a minors in Mathematics from Portland State University, with a solid foundation in analog circuit design, semiconductor device physics, and RF fundamentals.
 
-## 🧠 Technical Skills
+## Technical Skills
 
-### Analog & Circuit Design
-- Transistor amplifier design (BJT & MOSFET)
-- Diode circuits
-- Semiconductor physics
-- Analog troubleshooting
-
-### Hardware & Test Equipment
-- Oscilloscope, function generator, power supplies
-- Multimeter
-- Circuit debugging and validation
-
-### PCB & Fabrication
-- Schematic capture & PCB layout (KiCad)
-- Custom board design
-- THT & SMD soldering
-- Rapid prototyping
-
-### Software & Tools
-- C / C++
-- Python
-- Git & Linux (CLI)
-- LTSpice
-- Arduino IDE
-- LaTeX
-
-### Embedded & Interfaces
-- ESP32-based systems
-- UART, SPI, I²C
-
-### Mechanical / CAD
-- Onshape (3D modeling, enclosures, STL export)
-- 3D printing for hardware projects
-
+**Analog & Circuits:** Transistor amplifiers (BJT/MOSFET), diode circuits, semiconductor physics, analog troubleshooting  
+**Test & Lab:** Oscilloscope, function generator, power supplies, multimeter, circuit debugging  
+**PCB & Hardware:** Schematic capture & PCB layout (KiCad), prototyping, THT & SMD soldering  
+**Embedded & Systems:** ESP32, Arduino IDE, UART, SPI, I²C  
+**Software & Simulation:** C/C++, Python, Git, Linux (CLI), LTSpice  
+**CAD & Fabrication:** Onshape (3D modeling, enclosures), STL export, 3D printing
 
 
 <!--
