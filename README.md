@@ -1,5 +1,13 @@
 ## Hi, I'm Jorge 
-I am an Electrical Engineering student with a minors in Mathematics from Portland State University. I am passionate about analog design and semiconductor devices but I also enjoy the digital side of Electricla Engineering.
+I am an Electrical Engineering student with a minors in Mathematics from Portland State University, with a solid foundation in analog circuit design, semiconductor device physics, and RF fundamentals.
+
+## 🧠 Technical Skills
+
+### Analog & Circuit Design
+- Transistor amplifier design (BJT & MOSFET)
+- Diode circuits
+- Semiconductor physics
+- Analog troubleshooting
 
 
 
