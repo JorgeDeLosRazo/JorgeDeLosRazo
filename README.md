@@ -15,7 +15,7 @@
 </pre>
 
 ## 👤 About Me
-I am an Electrical Engineering student with a minors in Mathematics from Portland State University, with a solid foundation in analog circuit design, semiconductor device physics, and RF fundamentals.
+I am an Electrical Engineering student with a minor in Mathematics from Portland State University, with a solid foundation in analog circuit design, semiconductor device physics, and RF fundamentals.
 
 ## 🧠 Technical Skills
 
